@@ -76,8 +76,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="553" />
-    <option name="y" value="7" />
+    <option name="x" value="596" />
+    <option name="y" value="10" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -212,15 +212,15 @@
       <workItem from="1526056955583" duration="7017000" />
       <workItem from="1526211880841" duration="174000" />
       <workItem from="1526280042133" duration="610000" />
-      <workItem from="1526314453267" duration="1028000" />
+      <workItem from="1526314453267" duration="1703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8829000" />
+    <option name="totallyTimeSpent" value="9504000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="369" y="4" width="1346" height="688" extended-state="0" />
+    <frame x="596" y="10" width="1346" height="688" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -232,7 +232,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42519686" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36151078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.60431653" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17029549" />
